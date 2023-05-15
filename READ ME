@@ -1,0 +1,7 @@
+This is my MazeGame using pygame package
+All the textures and images were made by me
+Quick game summary:
+  Player is running through the generated maze and collecting tokens that randomly appear inside the maze. 
+  Two enemies are wandering randomly in the maze and if the player gets in the visible range they start chasing the player until the player escapes the area where the enemy can see them.
+  Objective: collect as many tokes as possible while trying to not be caught by enemies
+To run, download all the files from the given folder and open them in one project. Install pygame package to the compile. 
